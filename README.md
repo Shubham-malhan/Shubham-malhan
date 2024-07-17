@@ -7,13 +7,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/Shubham_malhan"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Shubham-malhan"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=Shubham_malhan">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Shubham_malhan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=Shubham-malhan">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Shubham-malhan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Shubham_malhan.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://Shubham-malhan.com">Al Siam</a></b>
         </samp>
 </h3>
 
@@ -38,23 +38,23 @@
 </p>
 
 <p align="center">
- <a href="https://Shubham_malhan.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shubham_malhan" />
+ <a href="https://Shubham-malhan.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shubham-malhan" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham_malhan"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham-malhan"/>
  </a>
- <!-- <a href="https://dev.to/Shubham_malhan" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Shubham_malhan" />
+ <!-- <a href="https://dev.to/Shubham-malhan" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Shubham-malhan" />
  </a> -->
- <a href="https://twitter.com/_Shubham_malhan" target="_blank">
+ <a href="https://twitter.com/_Shubham-malhan" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_Shubham_malhan" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shubham_malhan" />
+ <a href="https://instagram.com/_Shubham-malhan" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shubham-malhan" />
  </a> 
- <a href="https://facebook.com/Shubham_malhan.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shubham_malhan"  />
+ <a href="https://facebook.com/Shubham-malhan.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shubham-malhan"  />
   </a> 
 </p>
 <br />
@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Shubham_malhan.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Shubham_malhan/Shubham_malhan/issues)
+ 📧 &emsp; Reach me anytime: Shubham-malhan.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Shubham-malhan/Shubham-malhan/issues)
 
 </p>
 
@@ -102,13 +102,13 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Shubham_malhan&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham_malhan/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Shubham_malhan&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham_malhan/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Shubham_malhan&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham_malhan/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Shubham_malhan&repo=Shubham_malhan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham_malhan/Shubham_malhan)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/web-projects)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=Shubham-malhan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/Shubham-malhan)
 
 <p align="left">
-  <a href="https://github.com/Shubham_malhan?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Shubham-malhan?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -116,22 +116,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Shubham_malhan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham_malhan&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/Shubham-malhan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-malhan&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shubham_malhan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham_malhan&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/Shubham-malhan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-malhan&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Shubham_malhan"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Shubham_malhan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Shubham_malhan"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shubham_malhan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Shubham-malhan"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Shubham-malhan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Shubham-malhan"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shubham-malhan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham_malhan&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham-malhan&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
