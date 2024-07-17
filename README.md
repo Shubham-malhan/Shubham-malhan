@@ -34,7 +34,7 @@
   </samp>
 </p>
 
-<p align="center">
+<!--<p align="center">
  <a href="https://Shubham-malhan.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shubham-malhan" />
  </a>
@@ -43,7 +43,7 @@
  </a>
  <!-- <a href="https://dev.to/Shubham-malhan" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Shubham-malhan" />
- </a> -->
+ </a> 
  <a href="https://twitter.com/_Shubham-malhan" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shubham-malhan"  />
   </a> 
 </p>
-<br />
+<br />-->
 
 <!-- About Section -->
  # About me
