@@ -98,13 +98,13 @@
 
 <br/>
 
-## Top Open Source -
-<!--[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/itasks)
+<!-- ## Top Open Source -
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/web-projects)-->
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/web-projects)
 [![Shubham-malhan Readme](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-malhan&repo=Shubham-malhan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Shubham-malhan/Shubham-malhan)
 
-<!-- <p align="left">
+ <p align="left">
   <a href="https://github.com/Shubham-malhan?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p> -->
 
